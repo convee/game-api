@@ -1,0 +1,12 @@
+id	desc	operation_sys	product_id	name	sub_name	detailed 	icon	price	reward_vip_level	reward_coin_num	reward_gem_num	reward_energy_num
+int	string	int	string	string	string	string	string	float	int	int	int	int
+#												
+#内购	说明,本字段程序不读	1为ios2为android	bundle_id	商品名	副标题	详细描述	icon Prefab路径	价格	vip类型升级	获得金币数量	获得宝石数量	获得体力数量
+1001	ios	1	com.ot.1001	测试	-1	-1	-1	10.00	-1	20	2	-1
+2001	android	2	com.ot.1002	-1	-1	-1	-1	10.00	-1	20	2	-1
+2002	android	2	com.ot.1003	-1	-1	-1	-1	10.00	-1	20	2	-1
+2003	android	2	com.ot.1004	-1	-1	-1	-1	10.00	-1	20	2	-1
+2004	android	2	com.ot.1005	-1	-1	-1	-1	10.00	-1	20	2	-1
+2005	android	2	com.ot.1006	-1	-1	-1	-1	10.00	-1	20	2	-1
+2006	android	2	com.ot.1007	-1	-1	-1	-1	10.00	-1	20	2	-1
+2101	android首充	2	com.ot.1008	-1	-1	-1	-1	10.00	-1	20	2	-1
